@@ -477,3 +477,11 @@ docker rmi maammartufail/test_app:latest
 - **Docker Hub Issues**: Check Docker Hub status page for outages.
 
 ---
+
+## 👨‍💻 Developed By
+
+**Muhammad Saeed**  
+AI & Data Science Enthusiast | Embedded Systems Developer  
+[GitHub Profile](https://github.com/Saeed-dev2)
+
+---
